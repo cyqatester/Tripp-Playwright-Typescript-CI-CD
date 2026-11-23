@@ -1,4 +1,10 @@
-# Tripp.co.uk – Playwright TypeScript UI Tests
+# Tripp.co.uk – Playwright TypeScript UI Tests with CI/CD
+
+<p>
+<picture>
+  <img width="1080" height="607" alt="Tripp_Playwright_UI_Tests" src="https://github.com/user-attachments/assets/e01638fe-cc19-407f-9bfd-0d62d13f0b90" />
+</picture>  
+</p>
 
 UI automation for `https://www.tripp.co.uk/`, built with Playwright Test, TypeScript, Page Object Model (POM), and custom fixtures.
 
